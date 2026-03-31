@@ -30,10 +30,3 @@ SharpaWave-hardware/
 | `adapter/` | Adapter flanges and interfaces for various application scenarios, facilitating installation and custom design |
 | `simplified-model/` | Simplified full-hand models in various configurations, intended to support CAD-based custom design, simulation, and related applications |
 
-
-
-## License
-
-This hardware design is completely open-source and released under the [Insert Appropriate Hardware License, e.g., CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S) OR Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)].
-
-See the [LICENSE](LICENSE) file for more details.
