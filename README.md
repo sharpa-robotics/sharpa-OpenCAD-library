@@ -5,8 +5,7 @@
 
 ## Table of Contents
 
-- [Repository Structure](#-repository-structure)
-- [License](#-license)
+- [Repository Structure](#repository-structure)
 
 
 
