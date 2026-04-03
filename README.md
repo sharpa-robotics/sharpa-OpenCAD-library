@@ -16,14 +16,7 @@
 ```text
 │  README.md
 │
-├─wave1.3
-│  ├─adapter
-│  │      Mechanical-Pogo-Pin-Interface.STEP
-│  │      Original-Flange-Adapter-Wave1.3.PDF
-│  │      Original-Flange-Adapter-Wave1.3.STEP
-│  │
-│  └─simplified-model
-└─wave1.4
+└─wave_01
     ├─adapter
     │      Original-Flange-Adapter-Wave1.4.PDF
     │      Original-Flange-Adapter-Wave1.4.STEP
