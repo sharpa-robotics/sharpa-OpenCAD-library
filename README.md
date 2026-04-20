@@ -18,12 +18,12 @@
 │
 └─wave_01
     ├─adapter
-    │      Mechanical-Pogo-Pin-Interface.pdf
-    │      Mechanical-Pogo-Pin-Interface.STEP
-    │      Original-Flange-Adapter.pdf
-    │      Original-Flange-Adapter.STEP
-    │      Wrist-Base-Interface.pdf
-    │      Wrist-Base-Interface.STEP
+    │      Internal-Interface.pdf
+    │      Internal-Interface.STEP
+    │      Flange-Interface.pdf
+    │      Flange-Interface.STEP
+    │      Wrist-Interface.pdf
+    │      Wrist-Interface.STEP
     │
     └─simplified-model
 ```
