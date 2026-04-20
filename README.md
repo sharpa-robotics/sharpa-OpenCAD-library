@@ -1,6 +1,6 @@
 # sharpa-opencad-library
 
- SharpaWave open hardware repository provides mechanical CAD resources for the project, structured by part category and assembly arrangement. It includes designs for adapter interfaces and simplified models. Files are supplied in STEP format to ensure compatibility with major CAD platforms and to support manufacturing, integration, and engineering analysis.
+ Sharpa Wave open hardware repository provides mechanical CAD resources for the project, structured by part category and assembly arrangement.The default flange is an ISO-9409-1-50-4-M6 interface, ensuring compatibility with most robotic arms such as Universal Robots(UR), Franka, and Flexiv, among others. Files are supplied in STEP format to ensure compatibility with major CAD platforms and to support manufacturing, integration, and engineering analysis.
 
 
 ## Table of Contents
