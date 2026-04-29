@@ -25,9 +25,9 @@
     │      Wrist-Interface.pdf
     │      Wrist-Interface.STEP
     │
-    └─simplified-model
-           wave01-R.step
-           wave01-L.step           
+    └─wave
+           wave-R-01.step
+           wave-L-01.step           
 ```
 
 
