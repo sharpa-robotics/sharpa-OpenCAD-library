@@ -38,5 +38,5 @@
 | Directory | Description |
 |-----------|-------------|
 | `adapter/` | Adapter flanges and interfaces for various application scenarios, facilitating installation and custom design |
-| `simplified-model/` | Simplified full-hand models in various configurations, intended to support CAD-based custom design, simulation, and related applications |
+| `wave/` | Full-hand models, designed to support CAD-based custom design, simulation, and related applications. |
 
